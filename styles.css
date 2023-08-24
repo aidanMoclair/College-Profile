@@ -1,15 +1,33 @@
 body{
     display: flex;
     flex-direction: column;
-    border-style: solid;
     margin: 0;
 }
 
-.homepage {
+.title {
     display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #1F2937;
+    padding: 16px;
 }
 
-.links{
-    width: 20%;
+a {
+    text-decoration: none;
+    font-size: 18px;
+    color: #F9FAF8;
+    
+
+}
+
+h1 {
+    
+    color: #F9FAF8;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    gap: 16px;
     
 }

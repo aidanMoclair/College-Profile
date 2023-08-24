@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    flex-direction: column;
+    border-style: solid;
+    margin: 0;
+}
+
+.homepage {
+    display: flex;
+}
+
+.links{
+    width: 20%;
+    
+}

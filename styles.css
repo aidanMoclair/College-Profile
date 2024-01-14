@@ -21,7 +21,6 @@ a {
 }
 
 h1 {
-    
     color: #F9FAF8;
 }
 
@@ -29,5 +28,4 @@ ul {
     list-style-type: none;
     display: flex;
     gap: 16px;
-    
 }
